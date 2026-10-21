@@ -392,7 +392,7 @@ class MainActivity : Activity() {
         val input = EditText(this).apply {
             hint = "What needs to get done?"
             textSize = 15f
-            singleLine = true
+            maxLines = 1
             setTextColor(ink)
             setPadding(dp(14), dp(12), dp(14), dp(12))
         }
