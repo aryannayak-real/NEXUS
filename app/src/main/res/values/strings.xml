@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NEXUS</string>
+    <string name="home_greeting">Your day, in one place.</string>
+    <string name="home_subtitle">A little more clarity. A little less chaos.</string>
+    <string name="welcome_title">WELCOME TO NEXUS</string>
+    <string name="welcome_message">Your personal hub is taking shape.</string>
+</resources>
